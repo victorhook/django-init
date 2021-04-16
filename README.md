@@ -1,7 +1,9 @@
 # Django init
 Create a new django-project and automatically get some boilerplate code generated
 and project setup configured.
-`django-init.sh MYNEWPROJECT`
+```
+django-init.sh MYNEWPROJECT
+```
 
 ## Create symbolic link to path.
 ```
