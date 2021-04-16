@@ -3,6 +3,7 @@ Create a new django-project and automatically get some boilerplate code generate
 and project setup configured.
 ```
 django-init.sh MYNEWPROJECT
+MYNEWPROJECT/run.sh
 ```
 
 ## Create symbolic link to path.
